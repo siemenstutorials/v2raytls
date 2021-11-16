@@ -46,6 +46,7 @@ Nginx 目录：
 # [购买地址](https://bit.ly/3BJ9abs)
 # 5折高性能VPS优惠码：X7W7XCCNE8
 # [购买地址](https://bit.ly/3BJ9abs)
-https://bit.ly/3BJ9abs
+
+本脚本源自Wulabing大神，本库仅作分享备份,TKS
 
 
